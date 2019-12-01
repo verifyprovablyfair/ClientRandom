@@ -1,2 +1,2 @@
 # ClientRandom
-The only proper way to generate a provably-fair client-random number.
+This is a proper method to generate provably-fair client-random numbers.
